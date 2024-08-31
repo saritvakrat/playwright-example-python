@@ -1,11 +1,11 @@
 Here's an example of a comprehensive `README.md` file for your Python testing framework using Playwright and pytest:
 
-```markdown
 # Python Playwright Testing Framework
 
 ## Overview
 
 This project is a basic framework for end-to-end testing using Python and Playwright. It leverages pytest for test discovery and execution, providing a scalable and maintainable solution for automating browser interactions and verifying web application functionality.
+
 
 ## Project Structure
 
