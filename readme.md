@@ -1,5 +1,3 @@
-Here's an example of a comprehensive `README.md` file for your Python testing framework using Playwright and pytest:
-
 # Python Playwright Testing Framework
 
 ## Overview
@@ -44,8 +42,8 @@ testing-playwright/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/testing-playwright.git
-cd testing-playwright
+git clone git@github.com:saritvakrat/playwright-example-python.git
+cd playwright-example-python
 ```
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
